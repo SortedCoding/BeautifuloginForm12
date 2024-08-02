@@ -4,7 +4,7 @@ This repository contains an animated login form created using HTML and CSS. The 
 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]https://youtu.be/2Tj_S2MnsPI))
+click on the link to see :- ([Open in Youtube](https://youtu.be/2Tj_S2MnsPI))
 
 # Screenshot
 Here we have project screenshot :
