@@ -10,21 +10,9 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/9Fba9HKlrfs))
 Here we have project screenshot :
 
 
-Front Page:
+Login Page:
 ![screenshot](lake1.png)
 
-
-Login :
-![screenshot](lake2.png)
-
-Registration :
-![screenshot](lake3.png)
-
-Login :
-![screenshot](lake4.png)
-
-Registration :
-![screenshot](lake5.png)
 
 Raw Image:
 ![screenshot](landscape-trees-mountains-clouds-digital-art-38.jpg)
