@@ -1,10 +1,10 @@
-# Beautiful Website with  Login & Registration Form Using HTML , CSS & JS
+![alone-morning-wq-3840x2160](https://github.com/user-attachments/assets/fafa0a18-886c-4d82-9dd0-651242afbedf)# Beautiful Website with  Login & Registration Form Using HTML , CSS & JS
 This repository contains an animated login form created using HTML and CSS. The form features smooth animations and a modern design, providing an enhanced user experience. Perfect for web developers looking to add stylish and interactive login forms to their projects.
 
 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube](https://youtu.be/9Fba9HKlrfs))
+click on the link to see :- ([Open in Youtube](https://youtu.be/rIBximLPPs4))
 
 # Screenshot
 Here we have project screenshot :
@@ -15,7 +15,7 @@ Login Page:
 
 
 Raw Image:
-![screenshot](acoustic-love-1h-3840x2160.jpg)
+![screenshot]()
 
 
 # Features:
